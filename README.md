@@ -20,7 +20,7 @@ I'm a software developer with experience in Java with Spring Boot framework, C#,
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erteltiago0@gmail.com&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagoErtel&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 💬 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/tiago-ertel-7a6451247/
