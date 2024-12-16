@@ -7,8 +7,8 @@ I'm a software developer with experience in Java with Spring Boot framework, C#,
 ## 🚀 About Me
 - 🏠 I’m based in São Pedro da Serra
 - 🔭 I’m currently working on a Java web application with Spring Boot and JTE
-- 🌱 I’m currently learning about Docker, Spring and Postgress
-- 👯 I’m looking to collaborate on projects involving web development, particuly with Java
+- 🌱 I’m currently learning about Docker, Spring and Postgres
+- 👯 I’m looking to collaborate on projects involving web development, particularly with Java
 - 💬 Ask me about Java, Spring Boot, PostgreSQL, Salesforce, Tableau, and web development
 
 ## 🛠️ Technologies & Tools
