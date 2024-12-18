@@ -5,7 +5,7 @@ Hi there 👋 I'm Tiago Ertel!
 I'm a software developer with experience in Java with Spring Boot framework, C#, Fourjs Genero BDL, web development and ERP development. I'm passionate about building applications that solve real-world problems and learning new technologies.
 
 ## 🚀 About Me
-- 🏠 I’m based in São Pedro da Serra
+- 🏠 I’m based in São Pedro da Serra, RS, Brasil
 - 🔭 I’m currently working on a Java web application with Spring Boot and JTE
 - 🌱 I’m currently learning about Docker, Spring and Postgres
 - 👯 I’m looking to collaborate on projects involving web development, particularly with Java
